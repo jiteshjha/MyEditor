@@ -35,6 +35,7 @@ def about_command():
  
 def dummy():
     print "dummy"
+
 menu = Menu(root)
 root.config(menu=menu)
 filemenu = Menu(menu)
