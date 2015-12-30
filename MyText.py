@@ -1,5 +1,5 @@
 __author__="jitesh"
-
+#Minimal editor
 import Tkinter
 from Tkinter import *
 from ScrolledText import *
